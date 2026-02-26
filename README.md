@@ -12,9 +12,9 @@ Downstream analysis of results for bacterial, algal and fungal MAGs was complete
 
 Select intermediate and input files are provided in this repository. Please contact authors for access to other inputs and intermediate files found in the R analysis. 
 
-[Microbial Community Analysis](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/01-microbial_community): Analysis of lichen metagenome composition and exploration of cyanobacterial photobionts.
-[Chlorophyte Photobiont](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/03-chlorophyta_photobiont): Analysis of chlorophyte photobiont MAG detected in _Lobaria pulmonaria_ and _Ricasolia virens_.
-[Mycobiont](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/04-fungi): Analysis of fungal MAGs and exploration of TE expression dynamics in lichenized fungi. 
+[Microbial Community Analysis](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/01-microbial_community): Analysis of lichen metagenome composition and exploration of cyanobacterial photobionts.  
+[Chlorophyte Photobiont](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/03-chlorophyta_photobiont): Analysis of chlorophyte photobiont MAG detected in _Lobaria pulmonaria_ and _Ricasolia virens_.  
+[Mycobiont](https://github.com/Finn-Lab/2026_transposable_elements_cyanolichens/tree/main/R/04-fungi): Analysis of fungal MAGs and exploration of TE expression dynamics in lichenized fungi.   
 
 
 
